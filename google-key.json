@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gothic-welder-350900",
+  "private_key_id": "3cbc56647f3495d4db7ed2defc4782121c5622a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClBBk+Qh/e0Qtp\ndyTXSM+Rttt2LnTD9joNg+9lqCgc+c7IWzw6oQVTlbINoS+eZUXHVxYSG9RC02xZ\ndZLBdXuZs7YItREg1TcFYNm9VRCmTMPoNlw+t0M9Dq1k1D1V3n4mrpy076gW3GVa\nWj1wcwyPasatERF13KM/r6gZbrEenbo5niX2uxNZW+K+vAmi/RpEBOT7zKJ4uzgb\nkS80l2HdMFwKVTmN4ZG6P2T5yXqMWu49P18RW6sP8EzMr0D1GMgz2xctSTXx3KEv\n5ohbd3QFE/sEZyUpfGUVtRyhZcEYxowao7GD6b4CWJ3DRw8NWyNe3hW9IESrjF3U\ndN+JoZJNAgMBAAECggEAQR467+ycMwt/W2Ee8q3S64ejVyHCBkq2Yfr8j7sqCTUz\nOrF2NRSxy2g5WVOQPQtt29or5X2B59US3sKc5Sb9XYwje5AocDJzgfXUNvjIlzeX\n350EDeO37vJJzo5KngYs9grV4DjqtgrHHD6cHDHqdPYH7OfdYgttiIZC6bZawt+M\ngYZNMxWUNtVJKRhWIoYs2rzL+JuynCOwpGoO29PSFo8KejARI6PgNX8+e4exAAna\n6FtI7qlbBqYYJ+ZUKzfB+Fp/VgfY29bkXr9wJVShIOs4rdpA2/txpQLJGcz0qLEW\nPPCz89a/MPnGZ82FyHl8gssSHz1u5pvafT1hzFiTqQKBgQDfiypXk0CDhgYsLzRO\nZsqzFulKceX28QkQ1NLmIiN5C0+q7SgyKoqLeqjOlALoND9hS7NaGpW+J4jX6pyS\nNTAFm4P/uqbg7qBlLZ8GgdmZmSNq96ApaWMyKNI9sUf1rs5dLbnHEyFxfh+B6F1D\n26Y6NLWfZ4DmD6u+D0iR82DhfwKBgQC8+YkuIoQNPOZBAAEOsUF5mTmM0zG6y6M3\n7MbsnpJrBgNJlM5dSrOyjR7GHxPV6lKZBJIBV3DhAnJHHJHH+dtdh0AcInFnaFK9\n8VWsXgOMPwknr/AnqJ2gmS25QfpfXQEzow9nN9aVGLGkNDM/AkeFPpfVUboTKR/T\nh5CbLPJaMwKBgQDL4gSbXS1BB/MHR4JgY3ZKgwIBqQJCCLLpDALSbJ6H3t4pmiXI\nI267KgNebjZ8jHKmDcIl0wtyJGK180AcRbBn3OA2VImxq1LVFRfuem35nmdkPzdv\nrbQQYpTmOZPVKzsCVxsSy4r8FTktZb3yjxn8CmkAWwmASxirvwrEOwLIhwKBgB9r\n2mxqXsyYsKxkJMjdnkZqvM/2mdE2ZOg6nYTghPX4pPlKHdoTPrfUkSZeKn0qHhvF\nT8WbVXCEaJ38WR0IJXpyr6096N9J0GA2zYkAhNR/8rS/o03k0njOn3SrTMcofreo\nSDpgZXSbC4aDC3ZRmbTFCJf2o9rlvp38b4XtvkpTAoGBAIFLY/M+OiNEkTmi+wzM\nNbz1j/z45cyE1dK3Lds4jP5RAFeUc8w+i8d07Y22+I14qWTSAqfToNWduVn9gBW9\nC4vVNcE5/Xkt5kY6QnmTlb6QVn/RCx9oSS5678EPXtPkSTzLZGz17LBdL5mOJX5r\nXGZf9Mt7R9Me+zkuje6L/FUA\n-----END PRIVATE KEY-----\n",
+  "client_email": "rubahsakti@gothic-welder-350900.iam.gserviceaccount.com",
+  "client_id": "114177992390856883201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rubahsakti%40gothic-welder-350900.iam.gserviceaccount.com"
+}
